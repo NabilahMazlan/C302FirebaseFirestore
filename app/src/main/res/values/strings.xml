@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">C302FirebaseFirestore</string>
+    <string name="title_activity_add_firestore">AddFirestoreActivity</string>
+</resources>
